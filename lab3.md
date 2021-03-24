@@ -78,9 +78,9 @@
   7.ต่อแหล่งจ่ายไฟเข้ากับRelayเพื่อให้สามารถทำงานได้
   
       - ผลที่ได้จะเป็น ไฟสีเขียวสลับกับน้ำเงิน ดังรูป
-      <img width="1433" alt="ภาพถ่ายหน้าจอ 2564-03-24 เวลา 17 35 42" src="https://user-images.githubusercontent.com/80880050/112296489-8d2f4d00-8cc7-11eb-847e-929c756896b3.png">
+   <img width="1433" alt="ภาพถ่ายหน้าจอ 2564-03-24 เวลา 17 35 42" src="https://user-images.githubusercontent.com/80880050/112296489-8d2f4d00-8cc7-11eb-847e-929c756896b3.png">
 
-      <img width="1433" alt="ภาพถ่ายหน้าจอ 2564-03-24 เวลา 17 35 48" src="https://user-images.githubusercontent.com/80880050/112296530-9a4c3c00-8cc7-11eb-808f-c9711ab7f5df.png">
+   <img width="1433" alt="ภาพถ่ายหน้าจอ 2564-03-24 เวลา 17 35 48" src="https://user-images.githubusercontent.com/80880050/112296530-9a4c3c00-8cc7-11eb-808f-c9711ab7f5df.png">
 
 ## บันทึกผผลการทดลอง
 
