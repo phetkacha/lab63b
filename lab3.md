@@ -8,6 +8,7 @@
 ## แหล่งข้อมูลเพื่อการศึกษา
 
   วิธีติดตั้งโปรแกรมgit https://www.youtube.com/watch?v=9aF0upI9Gic
+  
   วิธีการทำการทดลอง https://youtu.be/CCnN1WJsXQY , https://youtu.be/6JnhaUILGuw
  
 ## อุปกรณ์
@@ -33,7 +34,7 @@
   3.เปิดโปรแกรมตัวอย่างโดยการเปิดcommand promptหลังจากติดตั้งโปรแกรมgit โดยการดูที่ตัวอย่างโปรแกรม ที่โฟลเดอร์ pattani
 
     - โฟล์เดอร์PATANIจะแสดงโปรแกรมตัวอย่าง 9 โปรแกรม ไปที่ตัวอย่างที่3 แล้วพิมพ์ cd 03_Output-Port
-      <img width="984" alt="ภาพถ่ายหน้าจอ 2564-03-24 เวลา 17 19 40" src="https://user-images.githubusercontent.com/80880050/112293864-2f9a0100-8cc5-11eb-89ea-0997579014d3.png">
+   <img width="984" alt="ภาพถ่ายหน้าจอ 2564-03-24 เวลา 17 19 40" src="https://user-images.githubusercontent.com/80880050/112293864-2f9a0100-8cc5-11eb-89ea-0997579014d3.png">
 
   4.ดู source code program โดยทำตามขั้นตอนดังนี้
 
