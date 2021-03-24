@@ -41,30 +41,30 @@
     - โปรแกรม นี้ set up serial port ที่ port 0 (output)
     - ใน loop แสดงการวนไปเรื่อยๆ ดังตัวอย่าง
 
-#include <Arduino.h>
-#include <ESP8266WiFi.h>
+	#include <Arduino.h>
+	#include <ESP8266WiFi.h>
 
-int cnt = 0;
+	int cnt = 0;
 
-void setup()
-{
-	Serial.begin(115200);
-	pinMode(0, OUTPUT);
-	Serial.println("\n\n\n");
-}
-
-void loop()
-{
-	cnt++;
-	if(cnt % 2) {
-		Serial.println("========== ON ===========");
-		digitalWrite(0, HIGH);
-	} else {
-		Serial.println("========== OFF ===========");
-		digitalWrite(0, LOW);
+	void setup()
+	{
+		Serial.begin(115200);
+		pinMode(0, OUTPUT);
+		Serial.println("\n\n\n");
 	}
-	delay(500);
-} 
+
+	void loop()
+	{
+		cnt++;
+		if(cnt % 2) {
+			Serial.println("========== ON ===========");
+			digitalWrite(0, HIGH);
+		} else {
+			Serial.println("========== OFF ===========");
+			digitalWrite(0, LOW);
+		}
+		delay(500);
+	} 
 
   5.ใช้คำสั่งอัพโหลด ในการอัพโหลดโปรแกรม 03_Output-Port ไปในไมโครคอนโทรลเลอร์ โดยทำตามขั้นตอนดังนี้
 
