@@ -76,7 +76,7 @@
       
       - พิมพ์ pio device monitor
       
-      <img width="984" alt="ภาพถ่ายหน้าจอ 2564-03-24 เวลา 16 49 24" src="https://user-images.githubusercontent.com/80880050/112289492-f069b100-8cc0-11eb-9112-828c1bae877d.png">
+   <img width="984" alt="ภาพถ่ายหน้าจอ 2564-03-24 เวลา 16 49 24" src="https://user-images.githubusercontent.com/80880050/112289492-f069b100-8cc0-11eb-9112-828c1bae877d.png">
 
 # อภิปรายผลการทดลอง
   หากต้องการที่จะดูชื่อและจำนวนสัญญาณwifiที่ค้นพบ สามารถใช้คำสั่ง pio device monitor ได้ หลังจากที่อัพโหลดข้อมูลจาก 02_Scan-wifi แล้ว
